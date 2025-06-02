@@ -1,4 +1,4 @@
-Spatial Analysis with ArcGIS - ENGR 180 📍
+**Spatial Analysis with ArcGIS - ENGR 180** 📍
 
 This repository contains course materials, labs, and final project for ENGR 180: Spatial Analysis with ArcGIS. The course covers fundamental concepts and practical applications of spatial analysis using Esri's ArcGIS platform.
 
